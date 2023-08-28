@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_s3ve3gds" path="device/samsung/s3ve3gds" remote="github" />
+  <project name="LineageOS/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" />
+  <project name="LineageOS/android_device_samsung_s3ve3g-common" path="device/samsung/s3ve3g-common" remote="github" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" />
+  <project name="LineageOS/android_kernel_samsung_msm8226" path="kernel/samsung/msm8226" />
+</manifest>
